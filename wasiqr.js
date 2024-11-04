@@ -62,17 +62,16 @@ router.get('/', async (req, res) => {
 ┏━━━━━━━━━━━━━━
 ┃QUEEN_ANITA_V2 SESSION IS 
 ┃SUCCESSFULLY
-┃CONNECTED ✅🔥
+┃CONNECTED 
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 DAVID CYRIL 𖥘
+❶ || Creator = Marisel
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L
+❷ || https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/deecee_x 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 David Cyril*
+© *Marisel*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
